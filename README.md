@@ -31,7 +31,41 @@
 ### 💻 Технологии:
 
 <div>
-  <img src="https://img.shields.io/badge/НАДПИСЬ НА БЕЙДЖЕ-ЦВЕТ ФОНА?style=for-the-badge&logo=НАЗВАНИЕ ЛОГОТИПА&logoColor=ЦВЕТ ЛОГОТИПА"/>
+    <img src="https://img.shields.io/badge/python-1e1e1e?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/django-1e1e1e?style=for-the-badge&logo=django&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/flask-1e1e1e?style=for-the-badge&logo=flask&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/fastapi-1e1e1e?style=for-the-badge&logo=fastapi&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/poetry-1e1e1e?style=for-the-badge&logo=poetry&logoColor=FFFFFF"/>
+    <hr>
+    <img src="https://img.shields.io/badge/php-1e1e1e?style=for-the-badge&logo=php&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/laravel-1e1e1e?style=for-the-badge&logo=laravel&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/livewire-1e1e1e?style=for-the-badge&logo=livewire&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/.ENV-1e1e1e?style=for-the-badge&logo=dotenv&logoColor=FFFFFF"/>
+    <hr>
+    <img src="https://img.shields.io/badge/javascript-1e1e1e?style=for-the-badge&logo=javascript&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/Node.js-1e1e1e?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/webpack-1e1e1e?style=for-the-badge&logo=webpack&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/express-1e1e1e?style=for-the-badge&logo=express&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/react-1e1e1e?style=for-the-badge&logo=react&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/Next.js-1e1e1e?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/redux.js-1e1e1e?style=for-the-badge&logo=redux&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/vue-1e1e1e?style=for-the-badge&logo=vuedotjs&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/Nuxt.js-1e1e1e?style=for-the-badge&logo=nuxtdotjs&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/vuetify.js-1e1e1e?style=for-the-badge&logo=vuetify&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/Electron.js-1e1e1e?style=for-the-badge&logo=electron&logoColor=FFFFFF"/>
+    <hr>
+    <img src="https://img.shields.io/badge/html-1e1e1e?style=for-the-badge&logo=html5&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/pug-1e1e1e?style=for-the-badge&logo=pug&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/bem-1e1e1e?style=for-the-badge&logo=bem&logoColor=FFFFFF"/>
+    <hr>
+    <img src="https://img.shields.io/badge/css-1e1e1e?style=for-the-badge&logo=css3&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/sass-1e1e1e?style=for-the-badge&logo=sass&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/bootstrap-1e1e1e?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/tailwindcss-1e1e1e?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF"/>
+    <hr>
+    <img src="https://img.shields.io/badge/git-1e1e1e?style=for-the-badge&logo=git&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/linux-1e1e1e?style=for-the-badge&logo=linux&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/docker-1e1e1e?style=for-the-badge&logo=docker&logoColor=FFFFFF"/>
 </div>
 
 ---
@@ -39,11 +73,8 @@
 ### 🛠 Инструменты:
 
 <div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" title="DaVinci Resolve" alt="DaVinci Resolve" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/YouTube_Logo_%282013-2017%29.svg" title="YouTube" alt="YouTube" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="raspberrypi" alt="raspberrypi" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
@@ -51,7 +82,7 @@
 
 ---
 
-<!-- ### 💻 Пройденные курсы:
+### 💻 Пройденные курсы:
 
 | Курсы                                                           | Дата              |
 | ----------------------------------------------------------------| :---------------: |
@@ -61,19 +92,11 @@
 | netology.ru/Первые шаги в JavaScript: создаём сайт и приложение | 02/2022 - 03/2022 |
 | stepik.org/Веб-разработка для начинающих: HTML и CSS            | 02/2022 - 03/2022 |
 
---- -->
+---
 
-<!--
-**zxvum/zxvum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on VipImport
+- 🌱 I’m currently learning C++
+- 👯 I’m looking to collaborate on Junior Frontend
+- 🤔 I’m looking for help with C++
+- 💬 Ask me about life
+- ⚡ Fun fact: I'm 16 years old.
