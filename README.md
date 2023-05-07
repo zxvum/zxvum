@@ -5,13 +5,13 @@
 
 ### :man_technologist: Обо мне:
 
-Мне 16 лет и я Junior Fullstack Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался со Школы 21 от Сбера, где я проходил интенсив, но не попал на основное обучение. После интенсива был промежуток в пару месяцев, где я пробовал себя во многих направлениях, пробовал изучать язык Си, Python, попробовал свои силы в data science, но больше всего меня зацепила веб разработка! С мая 2022 года по апрель 2023 я изучал веб разработку на курсах Яндекс Практикум. В настоящий момент мое обучение на курсе завершено и я нахожусь в поисках работы, параллельно с этим я стал Старшим студентом на курсе и помогаю новичкам осваивать веб-разработку!
+Мне 16 лет и я Junior Fullstack Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мое путешествие в IT началось около трех лет назад, когда мне было всего 13 лет. С тех пор я увлекся программированием и постоянно развиваю свои навыки. Я прошел курсы по Python, Django, ReactJS и Laravel от ведущих онлайн-платформ, таких как Stepik и Uchi.ru. В настоящее время я учусь решать олимпиадные задачки, чтобы улучшить свои навыки программирования и получить возможность поступить в инновационный университет. Я также участвовал в двух хакатонах и занял достойные места - 9 и 5 соответственно.
 
 - :telescope: Участвовал в двух хакатонах от ВК и Innoagency.
 
 - :seedling: Завершил курсы Python Pro!
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/sallyqx) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:timvash90@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-sallyqx-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/sallyqx) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:timvash90@gmail.com)
 
 ---
 
@@ -61,18 +61,6 @@
     <img src="https://img.shields.io/badge/git-1e1e1e?style=for-the-badge&logo=git&logoColor=FFFFFF"/>
     <img src="https://img.shields.io/badge/linux-1e1e1e?style=for-the-badge&logo=linux&logoColor=FFFFFF"/>
     <img src="https://img.shields.io/badge/docker-1e1e1e?style=for-the-badge&logo=docker&logoColor=FFFFFF"/>
-</div>
-
----
-
-### 🛠 Инструменты:
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="raspberrypi" alt="raspberrypi" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
 </div>
 
 ---
